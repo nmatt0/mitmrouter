@@ -19,11 +19,11 @@ You may want to disable NetworkManager as it may fight for control of one or mor
 Before running the script, you will need to edit the bash variables at the top of the script to use your machines interface names and other details you may want to change like the Wi-Fi network SSID and password.
 
 ```
-./router.sh: <up/down>
+./mitmrouter.sh: <up/down>
 ```
 
-The `./router.sh up` command will bring down all the linux router components and then build them back up again
+The `./mitmrouter.sh up` command will bring down all the linux router components and then build them back up again
 
-The `./router.sh down` command will bring down all the linux router components
+The `./mitmrouter.sh down` command will bring down all the linux router components
 
 
