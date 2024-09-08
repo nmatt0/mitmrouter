@@ -3,7 +3,7 @@ Bash script to automate setup of Linux router useful for IoT device traffic anal
 
 ![Arch](./img/arch.jpg)
 
-## Dependancies
+## Dependencies
 
 - hostapd
 - dnsmasq
